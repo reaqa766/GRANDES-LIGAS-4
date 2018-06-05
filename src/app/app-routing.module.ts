@@ -8,6 +8,7 @@ import { PitchersComponent } from './pitchers/pitchers.component';
 import { RegistreseComponent } from './registrese/registrese.component';
 import { NosotrosComponent } from './nosotros/nosotros.component';
 import { IngresarComponent } from './ingresar/ingresar.component';
+import { FooterComponent } from './footer/footer.component';
 
 const routes: Routes = [
   {
@@ -51,6 +52,7 @@ const routes: Routes = [
     path: 'ingresar',
     component: IngresarComponent,
   },
+  
 
 ];
 

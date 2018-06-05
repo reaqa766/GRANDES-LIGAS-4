@@ -14,6 +14,7 @@ import { NoticiasComponent } from './noticias/noticias.component';
 import { PitchersComponent } from './pitchers/pitchers.component';
 import { IngresarComponent } from './ingresar/ingresar.component';
 import { HomeComponent } from './home/home.component';
+import { FooterComponent } from './footer/footer.component';
 
 
 @NgModule({
@@ -28,7 +29,8 @@ import { HomeComponent } from './home/home.component';
     NoticiasComponent,
     PitchersComponent,
     IngresarComponent,
-    HomeComponent
+    HomeComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
