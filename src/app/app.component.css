@@ -1,0 +1,22 @@
+h1 {
+    color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 3vw;
+    text-align: center;
+  
+  }
+   .topbox {
+       margin-top: 2vw;
+   }
+
+   .texthome {
+       color: antiquewhite;
+       font-size: 2vw;
+   }
+
+   .texthome2 {
+       color: bisque;
+       font-size: .9vw;
+
+
+   }
